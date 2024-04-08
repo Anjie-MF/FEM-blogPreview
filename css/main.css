@@ -103,6 +103,7 @@ main {
     margin: 0;
     max-width: 20rem;
     margin: auto;
+    box-shadow: 7px 7px black;
 }
 
 .figtree {
@@ -144,7 +145,7 @@ main {
     padding-top: 10px;
 }
 
-.avatar-container img{
+.avatar-container img {
     margin-right: 10px;
 }
 
